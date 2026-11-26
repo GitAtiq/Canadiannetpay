@@ -1,0 +1,5 @@
+storage/ratelimit/*
+!storage/ratelimit/.gitkeep
+.env
+*.local.php
+.DS_Store
